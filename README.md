@@ -31,8 +31,8 @@ Steps
 
 **Staging tables**
 
-- Staging_events (8056 rows) : Staging table used to load data to fact table and dimension tables - songs and artists
-- Staging_songs (14896 rows) : Staging table used to load data to fact table and dimension tables - users and time
+- Staging_songs (14896 rows) : Staging table used to load data to fact table and dimension tables - songs and artists
+- Staging_events (8056 rows) : Staging table used to load data to fact table and dimension tables - users and time
 
 **Fact Table**
 
